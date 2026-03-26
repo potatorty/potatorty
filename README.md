@@ -6,4 +6,4 @@ I'm Meena, a Computer Science junior focused on game development and programming
 - 💬 Ask me about **game programming, Ren'Py, and scripting systems**
 - 📫 How to reach me: potatorty@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I enjoy building the systems behind games more than anything else
+
